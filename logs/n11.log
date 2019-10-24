@@ -1,0 +1,256 @@
+2018-12-15 13:47:24 INFO  BaseTest:30 - Test bitti.
+2018-12-15 13:48:54 INFO  BaseTest:30 - Test bitti.
+2018-12-15 13:54:23 INFO  BaseTest:30 - Test bitti.
+2018-12-15 13:59:51 INFO  BaseTest:30 - Test bitti.
+2018-12-15 15:30:45 INFO  BaseTest:30 - Test bitti.
+2018-12-15 15:51:26 INFO  BaseTest:30 - Test bitti.
+2018-12-15 15:54:19 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:07:16 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:13:02 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:16:56 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:18:25 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:19:19 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:22:15 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:23:30 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:24:17 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:25:31 INFO  MyTest:83 - 1 saniye kadar bekleniyor.
+2018-12-15 16:25:33 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 16:25:33 INFO  MyTest:83 - 3 saniye kadar bekleniyor.
+2018-12-15 16:25:40 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:33:03 INFO  MyTest:89 - 1 saniye kadar bekleniyor.
+2018-12-15 16:33:04 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 16:33:04 INFO  MyTest:89 - 3 saniye kadar bekleniyor.
+2018-12-15 16:33:11 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:34:30 INFO  MyTest:89 - 1 saniye kadar bekleniyor.
+2018-12-15 16:34:32 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 16:34:32 INFO  MyTest:89 - 3 saniye kadar bekleniyor.
+2018-12-15 16:34:38 INFO  MyTest:89 - 3 saniye kadar bekleniyor.
+2018-12-15 16:34:41 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:36:38 INFO  MyTest:90 - 1 saniye kadar bekleniyor.
+2018-12-15 16:36:39 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 16:36:39 INFO  MyTest:90 - 3 saniye kadar bekleniyor.
+2018-12-15 16:36:46 INFO  MyTest:90 - 3 saniye kadar bekleniyor.
+2018-12-15 16:37:05 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:39:46 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 16:39:47 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 16:39:47 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 16:39:54 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 16:39:58 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 16:39:59 INFO  BaseTest:30 - Test bitti.
+2018-12-15 16:42:03 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 16:42:04 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 16:42:04 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 16:42:11 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 16:42:15 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 16:42:16 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:11:08 INFO  MyTest:89 - 1 saniye kadar bekleniyor.
+2018-12-15 17:11:09 INFO  MyTest:61 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 17:11:09 INFO  MyTest:89 - 3 saniye kadar bekleniyor.
+2018-12-15 17:11:19 INFO  MyTest:89 - 3 saniye kadar bekleniyor.
+2018-12-15 17:11:29 INFO  MyTest:89 - 1 saniye kadar bekleniyor.
+2018-12-15 17:11:30 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:22:47 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:23:56 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:25:11 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:27:50 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:34:58 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:36:10 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:39:39 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:41:50 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:48:49 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:53:35 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:55:59 INFO  BaseTest:30 - Test bitti.
+2018-12-15 17:59:43 INFO  BaseTest:30 - Test bitti.
+2018-12-15 18:00:11 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:00:12 INFO  MyTest:63 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 18:00:12 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:00:20 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:00:24 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:00:25 INFO  BaseTest:30 - Test bitti.
+2018-12-15 18:02:31 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:02:32 INFO  MyTest:63 - addedProductName : 'Baseus Safety Airbag iPhone X Kılıf Gold'
+2018-12-15 18:02:32 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:02:40 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:02:44 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:02:45 INFO  BaseTest:30 - Test bitti.
+2018-12-15 18:03:42 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:03:43 INFO  MyTest:63 - addedProductName : 'Baseus Safety Airbag iPhone X Kılıf Gold'
+2018-12-15 18:03:43 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:03:50 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:03:54 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:03:55 INFO  BaseTest:30 - Test bitti.
+2018-12-15 18:42:47 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:42:48 INFO  MyTest:63 - addedProductName : 'iPhone X Ayna Kapaklı Gold Stand Kılıf'
+2018-12-15 18:42:48 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:42:56 INFO  MyTest:91 - 3 saniye kadar bekleniyor.
+2018-12-15 18:43:00 INFO  MyTest:91 - 1 saniye kadar bekleniyor.
+2018-12-15 18:43:01 INFO  BaseTest:30 - Test bitti.
+2018-12-15 18:56:52 INFO  BaseTest:42 - Test finished.
+2018-12-15 18:58:21 INFO  BaseTest:42 - Test finished.
+2018-12-15 18:58:47 INFO  BaseTest:42 - Test finished.
+2018-12-15 18:59:35 INFO  BaseTest:42 - Test finished.
+2018-12-15 19:02:08 INFO  BaseTest:42 - Test finished.
+2018-12-15 19:10:23 INFO  BaseTest:50 - 1 saniye kadar bekleniyor.
+2018-12-15 19:10:40 INFO  BaseTest:42 - Test finished.
+2019-10-08 10:24:21 INFO  BaseTest:42 - Test finished.
+2019-10-08 10:46:55 INFO  BasePage:58 - 1 saniye kadar bekleniyor.
+2019-10-08 10:46:56 INFO  BaseTest:42 - Test finished.
+2019-10-08 10:49:31 INFO  BaseTest:42 - Test finished.
+2019-10-08 10:50:27 INFO  BasePage:58 - 1 saniye kadar bekleniyor.
+2019-10-08 10:50:43 INFO  BaseTest:42 - Test finished.
+2019-10-08 10:55:14 INFO  BasePage:59 - 1 saniye kadar bekleniyor.
+2019-10-08 10:55:20 INFO  BaseTest:42 - Test finished.
+2019-10-08 11:24:51 INFO  BaseTest:43 - Test finished.
+2019-10-08 11:25:53 INFO  BasePage:59 - 1 saniye kadar bekleniyor.
+2019-10-08 11:25:58 INFO  BaseTest:43 - Test finished.
+2019-10-08 11:31:39 INFO  BasePage:59 - 1 saniye kadar bekleniyor.
+2019-10-08 11:31:49 INFO  BasePage:59 - 1 saniye kadar bekleniyor.
+2019-10-08 11:31:50 INFO  BasePage:21 - addedProductName : 'FitCase Laser Color iPhone 6S Plus Silikon Kılıf Siyah'
+2019-10-08 11:31:50 INFO  BasePage:59 - 3 saniye kadar bekleniyor.
+2019-10-08 11:32:09 INFO  BaseTest:43 - Test finished.
+2019-10-08 11:32:30 INFO  BasePage:59 - 1 saniye kadar bekleniyor.
+2019-10-08 11:32:43 INFO  BasePage:59 - 1 saniye kadar bekleniyor.
+2019-10-08 11:32:44 INFO  BasePage:21 - addedProductName : 'FitCase Laser Color iPhone 6S Plus Silikon Kılıf Siyah'
+2019-10-08 11:32:44 INFO  BasePage:59 - 3 saniye kadar bekleniyor.
+2019-10-08 11:33:06 INFO  BaseTest:43 - Test finished.
+2019-10-08 11:40:06 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-10-08 11:40:10 INFO  BaseTest:43 - Test finished.
+2019-10-08 11:41:22 INFO  BasePage:61 - 1 saniye kadar bekleniyor.
+2019-10-08 11:41:29 INFO  BaseTest:43 - Test finished.
+2019-10-08 11:47:44 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 11:47:48 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 11:47:49 INFO  BaseTest:43 - Test finished.
+2019-10-08 11:48:33 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 11:48:37 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 11:48:38 INFO  BaseTest:43 - Test finished.
+2019-10-08 11:49:03 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 11:49:07 INFO  BaseTest:43 - Test finished.
+2019-10-08 11:55:37 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 11:55:42 INFO  BaseTest:43 - Test finished.
+2019-10-08 12:01:53 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 12:02:02 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 12:02:03 INFO  BasePage:21 - addedProductName : 'iPhone Lg Sony Htc Xioami Samsung Baseus Kol Bandı'
+2019-10-08 12:02:03 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-10-08 12:02:22 INFO  BaseTest:43 - Test finished.
+2019-10-08 12:05:19 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 12:05:24 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 12:05:25 INFO  BasePage:21 - addedProductName : 'FitCase Laser Color iPhone 6S Plus Silikon Kılıf Siyah'
+2019-10-08 12:05:25 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-10-08 12:05:44 INFO  BaseTest:43 - Test finished.
+2019-10-08 12:06:40 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 12:06:46 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 12:06:48 INFO  BasePage:21 - addedProductName : 'FitCase Laser Color iPhone 6S Plus Silikon Kılıf Siyah'
+2019-10-08 12:06:48 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-10-08 12:06:57 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 12:06:59 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-10-08 12:07:04 INFO  BaseTest:43 - Test finished.
+2019-10-08 15:04:33 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 15:04:40 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 15:04:56 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 15:04:59 INFO  BaseTest:43 - Test finished.
+2019-10-08 15:07:11 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 15:07:18 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 15:07:35 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 15:07:37 INFO  BaseTest:43 - Test finished.
+2019-10-08 15:54:45 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 15:54:54 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 15:55:14 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 15:55:15 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 15:55:16 INFO  BaseTest:43 - Test finished.
+2019-10-08 16:11:29 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:11:39 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:11:58 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:12:00 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:12:01 INFO  BaseTest:43 - Test finished.
+2019-10-08 16:17:25 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:17:26 INFO  BaseTest:43 - Test finished.
+2019-10-08 16:20:02 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:20:09 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:20:24 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:20:26 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:20:27 INFO  BaseTest:43 - Test finished.
+2019-10-08 16:22:16 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:22:22 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:22:37 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:22:38 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:22:39 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:22:47 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:22:48 INFO  BasePage:23 - addedProductName : 'SAMSUNG KULAKLIK MİKROFONLU KULAKLIK KULAK İÇİ KULAKLIK J2 J5 J7'
+2019-10-08 16:22:48 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-10-08 16:22:55 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:22:56 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:22:57 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 16:22:58 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-10-08 16:23:02 INFO  BaseTest:43 - Test finished.
+2019-10-08 17:30:02 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 17:30:08 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 17:30:24 INFO  BaseTest:43 - Test finished.
+2019-10-08 17:33:09 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-08 17:33:25 INFO  BaseTest:43 - Test finished.
+2019-10-24 11:22:52 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 11:23:04 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 11:23:21 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 11:23:22 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 11:23:23 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 11:23:33 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 11:23:34 INFO  BasePage:23 - addedProductName : 'IntelCore i5 8GB RAM 500GB HDD 19'' Led Monitör Takım Bilgisayar'
+2019-10-24 11:23:34 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-10-24 11:23:41 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 11:23:42 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 11:23:43 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 11:23:44 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-10-24 11:23:47 INFO  BaseTest:43 - Test finished.
+2019-10-24 12:14:42 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:14:51 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:14:54 INFO  BasePage:25 - İlk fiyat 1.449,00 TL Tl
+2019-10-24 12:15:09 INFO  BaseTest:43 - Test finished.
+2019-10-24 12:31:45 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:31:54 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:31:59 INFO  BasePage:25 - İlk fiyat 1.449,00 TL Tl
+2019-10-24 12:32:02 INFO  BasePage:30 - İkinci fiyat 6.697,99 TL
+2019-10-24 12:32:02 INFO  BaseTest:43 - Test finished.
+2019-10-24 12:32:53 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:33:03 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:33:06 INFO  BasePage:25 - İlk fiyat 1.449,00 TL Tl
+2019-10-24 12:33:09 INFO  BasePage:30 - İkinci fiyat 1.449,00 TL
+2019-10-24 12:33:09 INFO  BaseTest:43 - Test finished.
+2019-10-24 12:34:04 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:34:17 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:34:22 INFO  BasePage:24 - İlk fiyat 1.449,00 TL
+2019-10-24 12:34:25 INFO  BasePage:29 - İkinci fiyat 2.898,00 TL
+2019-10-24 12:34:25 INFO  BaseTest:43 - Test finished.
+2019-10-24 12:35:06 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:35:14 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:35:16 INFO  BasePage:24 - İlk fiyat 1.449,00 TL
+2019-10-24 12:35:32 INFO  BaseTest:43 - Test finished.
+2019-10-24 12:37:26 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:37:34 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:37:38 INFO  BasePage:24 - İlk fiyat 1.449,00 TL
+2019-10-24 12:37:41 INFO  BasePage:28 - İkinci fiyat 1.449,00 TL
+2019-10-24 12:37:41 INFO  BaseTest:43 - Test finished.
+2019-10-24 12:42:31 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:42:41 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:42:44 INFO  BasePage:24 - İlk fiyat 1.449,00 TL
+2019-10-24 12:42:47 INFO  BasePage:28 - İkinci fiyat 1.449,00 TL
+2019-10-24 12:42:47 INFO  BaseTest:43 - Test finished.
+2019-10-24 12:44:17 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:44:24 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 12:44:27 INFO  BasePage:24 - İlk fiyat 1.449,00 TL
+2019-10-24 12:44:30 INFO  BasePage:28 - İkinci fiyat 1.449,00 TL
+2019-10-24 12:44:32 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-10-24 12:44:37 INFO  BaseTest:43 - Test finished.
+2019-10-24 16:47:10 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 16:47:20 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 16:47:21 INFO  BasePage:39 - 2.sayfaya gidildi. 
+2019-10-24 16:47:24 INFO  BasePage:24 - İlk fiyat 81,75 TL
+2019-10-24 16:47:27 INFO  BasePage:28 - İkinci fiyat 89,00 TL
+2019-10-24 16:47:27 INFO  BaseTest:42 - Test finished.
+2019-10-24 16:55:02 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 16:55:17 INFO  BasePage:60 - 1 saniye kadar bekleniyor.
+2019-10-24 16:55:18 INFO  BasePage:39 - 2.sayfaya gidildi. 
+2019-10-24 16:55:21 INFO  BasePage:24 - İlk fiyat 81,75 TL
+2019-10-24 16:55:24 INFO  BasePage:28 - İkinci fiyat 81,75 TL
+2019-10-24 16:55:24 INFO  BasePage:41 - Ürün sayısı arttırıldı. 
+2019-10-24 16:55:26 INFO  BasePage:50 - Sepetin boşaltıldığı doğrulandı.
+2019-10-24 16:55:26 INFO  BasePage:60 - 3 saniye kadar bekleniyor.
+2019-10-24 16:55:31 INFO  BaseTest:42 - Test finished.
