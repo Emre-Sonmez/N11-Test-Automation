@@ -22,6 +22,7 @@ public class MyTest extends BaseTest {
         basketPage =new BasketPage();
 
         loginPage.login();
+        basketPage.ifBasketNotEmpty();
         headerPage.searchData();
         headerPage.goSecondPage();
         basketPage.addBasketAndPriceControl();
